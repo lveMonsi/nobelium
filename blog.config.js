@@ -18,7 +18,7 @@ const BLOG = {
   showArchive: true,
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
   ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
-  socialLink: 'https://twitter.com/',
+  socialLink: 'lvemonsi@gmail.com',
   seo: {
     keywords: ['Blog', 'Website', 'Notion', 'Python', 'C++', 'Windows', 'Linux', 'PyQt', 'html', 'css'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
