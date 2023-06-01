@@ -1,5 +1,5 @@
 const BLOG = {
-  title: 'lveMonsiのBlog',
+  title: 'lveMonsiの???',
   author: 'lveMonsi',
   email: 'lvemonsi@gmail.com',
   link: 'https://noli.lvems.top',
